@@ -2,7 +2,7 @@ var list_products = [
     {
         "name": "Samsung Galaxy S25 Ultra",
         "company": "Samsung",
-        "img": "img/products/samsung-galaxy-s25-ultra-black.jpg",
+        "img": "img/products/Samsung-Galaxy-S25-Ultra-Titan-Black.jpg",
         "price": "34.990.000",
         "star": 5,
         "rateCount": 128,
@@ -310,7 +310,8 @@ var list_products = [
             "battery": "5200 mAh, sạc nhanh 100W"
         },
         "masp": "Hua0"
-    },{
+    },
+    {
         "name": "Asus ROG Phone 9",
         "company": "Asus",
         "img": "img/products/asus-rog-phone-9-black.jpg",
@@ -573,30 +574,6 @@ var list_products = [
             "battery": "5000 mAh, sạc nhanh 25W"
         },
         "masp": "Nok6"
-    },
-    {
-        "name": "Nokia G500 5G",
-        "company": "Nokia",
-        "img": "img/products/nokia-g500-5g-grey.jpg",
-        "price": "10.990.000",
-        "star": 4,
-        "rateCount": 75,
-        "promo": {
-            "name": "tragop",
-            "value": "0"
-        },
-        "detail": {
-            "screen": "AMOLED, 6.55', Full HD+, 120Hz",
-            "os": "Android 15",
-            "camara": "50 MP (chính), 8 MP (ultra-wide), 2 MP (macro)",
-            "camaraFront": "16 MP",
-            "cpu": "Qualcomm Snapdragon 6 Gen 1 8 nhân",
-            "ram": "6 GB",
-            "rom": "128 GB",
-            "microUSB": "Không, USB-C",
-            "battery": "4500 mAh, sạc nhanh 33W"
-        },
-        "masp": "Nok7"
     },
     {
         "name": "Nokia Lumia 850 5G",
@@ -1173,9 +1150,7 @@ var list_products = [
             "battery": "5000 mAh, sạc nhanh 18W"
         },
         "masp": "Xia15"
-    }, 
-
-
+    },
     {
         "name": "Realme C70 5G",
         "company": "Realme",
@@ -1223,6 +1198,387 @@ var list_products = [
             "battery": "5000 mAh, sạc nhanh 18W"
         },
         "masp": "Xia16"
-    }
-    
+    },
+    {
+        "name": "Asus ROG Phone 9 Pro",
+        "company": "Asus",
+        "img": "img/products/asus-rog-phone-9-pro-black.jpg",
+        "price": "26.990.000",
+        "star": 5,
+        "rateCount": 100,
+        "promo": {
+            "name": "tragop",
+            "value": "0"
+        },
+        "detail": {
+            "screen": "AMOLED, 6.78', Full HD+, 165Hz",
+            "os": "Android 15, ROG UI",
+            "camara": "50 MP (chính), 13 MP (ultra-wide), 5 MP (macro)",
+            "camaraFront": "32 MP",
+            "cpu": "Qualcomm Snapdragon 8 Gen 4 8 nhân",
+            "ram": "16 GB",
+            "rom": "512 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5500 mAh, sạc nhanh 65W"
+        },
+        "masp": "Asu7"
+    },
+    {
+        "name": "Google Pixel 10 Pro",
+        "company": "Google",
+        "img": "img/products/google-pixel-10-pro-hazel.jpg",
+        "price": "29.990.000",
+        "star": 5,
+        "rateCount": 100,
+        "promo": {
+            "name": "giamgia",
+            "value": "1.500.000"
+        },
+        "detail": {
+            "screen": "AMOLED, 6.7', QHD+, 120Hz",
+            "os": "Android 15",
+            "camara": "50 MP (chính), 48 MP (ultra-wide), 12 MP (telephoto)",
+            "camaraFront": "12 MP",
+            "cpu": "Google Tensor G4 8 nhân",
+            "ram": "12 GB",
+            "rom": "256 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5000 mAh, sạc nhanh 45W"
+        },
+        "masp": "Goo9"
+    },
+    {
+        "name": "Huawei Mate 20 Pro",
+        "company": "Huawei",
+        "img": "img/products/huawei-mate-20-pro-green-600x600.jpg",
+        "price": "15.990.000",
+        "star": 4,
+        "rateCount": 80,
+        "promo": {
+            "name": "moiramat",
+            "value": ""
+        },
+        "detail": {
+            "screen": "OLED, 6.39', QHD+, 60Hz",
+            "os": "Android 9, EMUI 9",
+            "camara": "40 MP (chính), 20 MP (ultra-wide), 8 MP (telephoto)",
+            "camaraFront": "24 MP",
+            "cpu": "Kirin 980 8 nhân",
+            "ram": "6 GB",
+            "rom": "128 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "4200 mAh, sạc nhanh 40W"
+        },
+        "masp": "Hua10"
+    },
+    {
+        "name": "Huawei Nova 3",
+        "company": "Huawei",
+        "img": "img/products/huawei-nova-3-2-600x600.jpg",
+        "price": "9.990.000",
+        "star": 4,
+        "rateCount": 70,
+        "promo": {
+            "name": "tragop",
+            "value": "0"
+        },
+        "detail": {
+            "screen": "IPS LCD, 6.3', Full HD+, 60Hz",
+            "os": "Android 8.1, EMUI 8.2",
+            "camara": "16 MP (chính), 24 MP (monochrome)",
+            "camaraFront": "24 MP",
+            "cpu": "Kirin 970 8 nhân",
+            "ram": "6 GB",
+            "rom": "128 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "3750 mAh, sạc nhanh 18W"
+        },
+        "masp": "Hua11"
+    },
+    {
+        "name": "Huawei Y5 2017",
+        "company": "Huawei",
+        "img": "img/products/huawei-y5-2017-300x300.jpg",
+        "price": "3.490.000",
+        "star": 3,
+        "rateCount": 50,
+        "promo": {
+            "name": "moiramat",
+            "value": ""
+        },
+        "detail": {
+            "screen": "IPS LCD, 5.0', HD, 60Hz",
+            "os": "Android 6.0, EMUI 4.1",
+            "camara": "8 MP (chính)",
+            "camaraFront": "5 MP",
+            "cpu": "MediaTek MT6737T 4 nhân",
+            "ram": "2 GB",
+            "rom": "16 GB",
+            "microUSB": "Có",
+            "battery": "3000 mAh"
+        },
+        "masp": "Hua12"
+    },
+    {
+        "name": "iPad WiFi 32GB 2018",
+        "company": "Apple",
+        "img": "img/products/ipad-wifi-32gb-2018-thumb-600x600.jpg",
+        "price": "9.990.000",
+        "star": 4,
+        "rateCount": 60,
+        "promo": {
+            "name": "giamgia",
+            "value": "500.000"
+        },
+        "detail": {
+            "screen": "Retina, 9.7', 60Hz",
+            "os": "iPadOS 16",
+            "camara": "8 MP",
+            "camaraFront": "1.2 MP",
+            "cpu": "Apple A10 Fusion 4 nhân",
+            "ram": "2 GB",
+            "rom": "32 GB",
+            "microUSB": "Không, Lightning",
+            "battery": "32.4 Wh"
+        },
+        "masp": "App10"
+    },
+    {
+        "name": "iPhone 17 Pro",
+        "company": "Apple",
+        "img": "img/products/iphone-17-pro-black.jpg",
+        "price": "39.990.000",
+        "star": 5,
+        "rateCount": 200,
+        "promo": {
+            "name": "giareonline",
+            "value": "37.990.000"
+        },
+        "detail": {
+            "screen": "Super Retina XDR OLED, 6.7', 120Hz",
+            "os": "iOS 19",
+            "camara": "48 MP (chính), 12 MP (ultra-wide), 12 MP (telephoto)",
+            "camaraFront": "12 MP",
+            "cpu": "Apple A19 Pro 6 nhân",
+            "ram": "8 GB",
+            "rom": "256 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "4700 mAh, sạc nhanh 45W"
+        },
+        "masp": "App11"
+    },
+    {
+        "name": "iPhone 7 Plus 32GB",
+        "company": "Apple",
+        "img": "img/products/iphone-7-plus-32gb-hh-600x600.jpg",
+        "price": "7.990.000",
+        "star": 4,
+        "rateCount": 70,
+        "promo": {
+            "name": "moiramat",
+            "value": ""
+        },
+        "detail": {
+            "screen": "Retina HD, 5.5', Full HD, 60Hz",
+            "os": "iOS 15",
+            "camara": "12 MP (chính), 12 MP (telephoto)",
+            "camaraFront": "7 MP",
+            "cpu": "Apple A10 Fusion 4 nhân",
+            "ram": "3 GB",
+            "rom": "32 GB",
+            "microUSB": "Không, Lightning",
+            "battery": "2900 mAh"
+        },
+        "masp": "App12"
+    },
+    {
+        "name": "iPhone X 256GB",
+        "company": "Apple",
+        "img": "img/products/iphone-x-256gb-silver-400x400.jpg",
+        "price": "12.990.000",
+        "star": 4,
+        "rateCount": 80,
+        "promo": {
+            "name": "tragop",
+            "value": "0"
+        },
+        "detail": {
+            "screen": "Super Retina OLED, 5.8', 60Hz",
+            "os": "iOS 16",
+            "camara": "12 MP (chính), 12 MP (telephoto)",
+            "camaraFront": "7 MP",
+            "cpu": "Apple A11 Bionic 6 nhân",
+            "ram": "3 GB",
+            "rom": "256 GB",
+            "microUSB": "Không, Lightning",
+            "battery": "2716 mAh"
+        },
+        "masp": "App13"
+    },
+    {
+        "name": "Mobiistar B310",
+        "company": "Mobiistar",
+        "img": "img/products/mobiistar-b310-orange-600x600.jpg",
+        "price": "1.290.000",
+        "star": 3,
+        "rateCount": 40,
+        "promo": {
+            "name": "moiramat",
+            "value": ""
+        },
+        "detail": {
+            "screen": "TFT, 1.8', QVGA",
+            "os": "Không",
+            "camara": "Không",
+            "camaraFront": "Không",
+            "cpu": "Không",
+            "ram": "Không",
+            "rom": "Không",
+            "microUSB": "Có",
+            "battery": "800 mAh"
+        },
+        "masp": "Mob0"
+    },
+    {
+        "name": "Mobiistar E Selfie",
+        "company": "Mobiistar",
+        "img": "img/products/mobiistar-e-selfie-300-1copy-600x600.jpg",
+        "price": "3.490.000",
+        "star": 3,
+        "rateCount": 50,
+        "promo": {
+            "name": "giamgia",
+            "value": "200.000"
+        },
+        "detail": {
+            "screen": "IPS LCD, 5.0', HD, 60Hz",
+            "os": "Android 7.0",
+            "camara": "8 MP (chính)",
+            "camaraFront": "13 MP",
+            "cpu": "MediaTek MT6737 4 nhân",
+            "ram": "2 GB",
+            "rom": "16 GB",
+            "microUSB": "Có",
+            "battery": "3000 mAh"
+        },
+        "masp": "Mob1"
+    },
+    {
+        "name": "Mobiistar X",
+        "company": "Mobiistar",
+        "img": "img/products/mobiistar-x-3-600x600.jpg",
+        "price": "4.990.000",
+        "star": 4,
+        "rateCount": 60,
+        "promo": {
+            "name": "tragop",
+            "value": "0"
+        },
+        "detail": {
+            "screen": "IPS LCD, 5.86', HD+, 60Hz",
+            "os": "Android 8.1",
+            "camara": "16 MP (chính)",
+            "camaraFront": "16 MP",
+            "cpu": "MediaTek MT6762 8 nhân",
+            "ram": "4 GB",
+            "rom": "32 GB",
+            "microUSB": "Có",
+            "battery": "3000 mAh"
+        },
+        "masp": "Mob2"
+    },
+    {
+        "name": "Mobiistar Zumbo S2 Dual",
+        "company": "Mobiistar",
+        "img": "img/products/mobiistar-zumbo-s2-dual-300x300.jpg",
+        "price": "3.990.000",
+        "star": 3,
+        "rateCount": 50,
+        "promo": {
+            "name": "moiramat",
+            "value": ""
+        },
+        "detail": {
+            "screen": "IPS LCD, 5.5', HD, 60Hz",
+            "os": "Android 7.0",
+            "camara": "13 MP (chính)",
+            "camaraFront": "13 MP",
+            "cpu": "MediaTek MT6737 4 nhân",
+            "ram": "3 GB",
+            "rom": "16 GB",
+            "microUSB": "Có",
+            "battery": "3000 mAh"
+        },
+        "masp": "Mob3"
+    },
+    {
+        "name": "Nokia 5.1 Plus",
+        "company": "Nokia",
+        "img": "img/products/nokia-51-plus-black-18thangbh-400x400.jpg",
+        "price": "5.990.000",
+        "star": 4,
+        "rateCount": 65,
+        "promo": {
+            "name": "giamgia",
+            "value": "300.000"
+        },
+        "detail": {
+            "screen": "IPS LCD, 5.86', HD+, 60Hz",
+            "os": "Android 8.1",
+            "camara": "13 MP (chính), 5 MP (depth)",
+            "camaraFront": "8 MP",
+            "cpu": "MediaTek Helio P60 8 nhân",
+            "ram": "3 GB",
+            "rom": "32 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "3060 mAh"
+        },
+        "masp": "Nok10"
+    },
+    {
+        "name": "Nokia X200",
+        "company": "Nokia",
+        "img": "img/products/nokia-x200-black.jpg",
+        "price": "14.990.000",
+        "star": 4,
+        "rateCount": 80,
+        "promo": {
+            "name": "tragop",
+            "value": "0"
+        },
+        "detail": {
+            "screen": "AMOLED, 6.67', Full HD+, 120Hz",
+            "os": "Android 15",
+            "camara": "64 MP (chính), 8 MP (ultra-wide), 2 MP (macro)",
+            "camaraFront": "16 MP",
+            "cpu": "Qualcomm Snapdragon 7 Gen 3 8 nhân",
+            "ram": "8 GB",
+            "rom": "256 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5000 mAh, sạc nhanh 45W"
+        },
+        "masp": "Nok11"
+    },
+    {
+        "name": "OnePlus 13",
+        "company": "OnePlus",
+        "img": "img/products/oneplus-13-black.jpg",
+        "price": "22.990.000",
+        "star": 5,
+        "rateCount": 95,
+        "promo": {
+            "name": "giareonline",
+            "value": "21.990.000"
+        },
+        "detail": {
+            "screen": "AMOLED, 6.8', QHD+, 120Hz",
+            "os": "Android 15, OxygenOS 15",
+            "camara": "50 MP (chính), 48 MP (ultra-wide), 32 MP (telephoto)",
+            "camaraFront": "32 MP",
+            "cpu": "Qualcomm Snapdragon 8 Gen 4 8 nhân",
+            "ram": "12 GB",
+            "rom": "256 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "6000 mAh, sạc nhanh 100W"
+        }
 ];
