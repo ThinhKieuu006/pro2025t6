@@ -1,4 +1,4 @@
-var adminInfo = [{
+LDDvar adminInfo = [{
     "username": "ad",
     "pass": "ad"
 }];
@@ -606,9 +606,15 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-        <p><a href="index.html">LDD Phone Store</a> - All rights reserved © 2021 - Designed by
-            <span style="color: #eee; font-weight: bold">group 15th</span></p>
-    </div>`);
+    <p>
+        <a href="index.html" style="text-decoration: none; color: inherit;">
+            Đồ án cơ sở 1 - Nguyễn Kiều Thịnh, Nguyễn Văn Hoàng Thắng
+        </a>
+        <span style="color: #eee; font-weight: bold; display: block; margin-top: 4px;">
+            Giảng viên hướng dẫn: Nguyễn Đức Phước
+        </span>
+    </p>
+</div>
 }
 
 // Thêm contain Taikhoan
