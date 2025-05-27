@@ -1580,5 +1580,7 @@ var list_products = [
             "rom": "256 GB",
             "microUSB": "Không, USB-C",
             "battery": "6000 mAh, sạc nhanh 100W"
-        }
+        },
+	}
+        
 ];
