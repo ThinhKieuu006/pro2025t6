@@ -1,4 +1,4 @@
-LDDvar adminInfo = [{
+var adminInfo = [{
     "username": "ad",
     "pass": "ad"
 }];
@@ -605,8 +605,15 @@ function addFooter() {
     </div>
 
     <!-- ============== Footer ============= -->
-    <p><a href="index.html">Đồ án cơ sở 1 - Website bán điện thoại di động</a> - Người thực hiện: Nguyễn Kiều Thịnh, Nguyễn Văn Hoàng Sơn
-            <span style="color: #eee; font-weight: bold">Giảng viên hướng dẫn - ThS Nguyễn Đức Phước</span></p>
+    <div class="copy-right">
+        <p>
+            <a href="index.html" style="text-decoration: none; color: inherit;">
+                Đồ án cơ sở 1 - Xây dựng website bán điện thoại di động | Người thực hiện - Nguyễn Kiều Thịnh, Nguyễn Văn Hoàng Thắng
+            </a>
+            <span style="color: #eee; font-weight: bold; display: block; margin-top: 4px;">
+                Giảng viên hướng dẫn - Nguyễn Đức Phước
+            </span>
+        </p>
     </div>`);
 }
 
