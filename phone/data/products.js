@@ -358,5 +358,127 @@ var list_products = [
             "battery": "5000 mAh, sạc nhanh 45W"
         },
         "masp": "Goo0"
+    },
+
+    
+    {
+        "name": "OnePlus 13",
+        "company": "OnePlus",
+        "img": "img/products/oneplus-13-black.jpg",
+        "price": "24.990.000",
+        "star": 5,
+        "rateCount": 110,
+        "promo": {
+            "name": "giamgia",
+            "value": "1.500.000"
+        },
+        "detail": {
+            "screen": "AMOLED, 6.82', QHD+, 120Hz",
+            "os": "Android 15, OxygenOS 15",
+            "camara": "50 MP (chính), 48 MP (ultra-wide), 32 MP (telephoto)",
+            "camaraFront": "32 MP",
+            "cpu": "Qualcomm Snapdragon 8 Gen 4 8 nhân",
+            "ram": "12 GB",
+            "rom": "256 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5400 mAh, sạc nhanh 100W"
+        },
+        "masp": "One0"
+    },
+    {
+        "name": "Sony Xperia 1 VII",
+        "company": "Sony",
+        "img": "img/products/sony-xperia-1-vii-silver.jpg",
+        "price": "31.990.000",
+        "star": 4,
+        "rateCount": 78,
+        "promo": {
+            "name": "tragop",
+            "value": "0"
+        },
+        "detail": {
+            "screen": "OLED, 6.5', 4K, 120Hz",
+            "os": "Android 15",
+            "camara": "48 MP (chính), 12 MP (ultra-wide), 12 MP (telephoto)",
+            "camaraFront": "12 MP",
+            "cpu": "Qualcomm Snapdragon 8 Gen 4 8 nhân",
+            "ram": "12 GB",
+            "rom": "512 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5000 mAh, sạc nhanh 45W"
+        },
+        "masp": "Son0"
+    },
+    {
+        "name": "Asus ROG Phone 9 Pro",
+        "company": "Asus",
+        "img": "img/products/asus-rog-phone-9-pro-black.jpg",
+        "price": "29.990.000",
+        "star": 5,
+        "rateCount": 95,
+        "promo": {
+            "name": "moiramat",
+            "value": ""
+        },
+        "detail": {
+            "screen": "AMOLED, 6.78', Full HD+, 165Hz",
+            "os": "Android 15, ROG UI",
+            "camara": "50 MP (chính), 13 MP (ultra-wide), 5 MP (macro)",
+            "camaraFront": "32 MP",
+            "cpu": "Qualcomm Snapdragon 8 Gen 4 8 nhân",
+            "ram": "16 GB",
+            "rom": "512 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5800 mAh, sạc nhanh 65W"
+        },
+        "masp": "Asu0"
+    },
+    {
+        "name": "Samsung Galaxy Tab S10 Ultra",
+        "company": "Samsung",
+        "img": "img/products/samsung-galaxy-tab-s10-ultra-grey.jpg",
+        "price": "35.990.000",
+        "star": 5,
+        "rateCount": 62,
+        "promo": {
+            "name": "giareonline",
+            "value": "33.990.000"
+        },
+        "detail": {
+            "screen": "Dynamic AMOLED 2X, 14.6', 2K, 120Hz",
+            "os": "Android 15, One UI 7",
+            "camara": "13 MP (chính), 8 MP (ultra-wide)",
+            "camaraFront": "12 MP",
+            "cpu": "Qualcomm Snapdragon 8 Gen 4 8 nhân",
+            "ram": "12 GB",
+            "rom": "512 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "11200 mAh, sạc nhanh 45W"
+        },
+        "masp": "Sam3"
+    },
+    {
+        "name": "Xiaomi 14T Pro",
+        "company": "Xiaomi",
+        "img": "img/products/xiaomi-14t-pro-blue.jpg",
+        "price": "19.990.000",
+        "star": 4,
+        "rateCount": 88,
+        "promo": {
+            "name": "tragop",
+            "value": "0"
+        },
+        "detail": {
+            "screen": "AMOLED, 6.67', 1.5K, 144Hz",
+            "os": "Android 15, HyperOS 2.0",
+            "camara": "50 MP (chính), 12 MP (ultra-wide), 10 MP (telephoto)",
+            "camaraFront": "20 MP",
+            "cpu": "MediaTek Dimensity 9300+ 8 nhân",
+            "ram": "12 GB",
+            "rom": "256 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5000 mAh, sạc nhanh 120W"
+        },
+        "masp": "Xia2"
     }
 ];
