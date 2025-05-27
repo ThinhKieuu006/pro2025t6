@@ -1173,6 +1173,56 @@ var list_products = [
             "battery": "5000 mAh, sạc nhanh 18W"
         },
         "masp": "Xia15"
+    }, 
+
+
+    {
+        "name": "Realme C70 5G",
+        "company": "Realme",
+        "img": "img/products/realme-c70-5g-blue.jpg",
+        "price": "6.490.000",
+        "star": 4,
+        "rateCount": 55,
+        "promo": {
+            "name": "giamgia",
+            "value": "300.000"
+        },
+        "detail": {
+            "screen": "IPS LCD, 6.67', HD+, 90Hz",
+            "os": "Android 15, Realme UI 6.0",
+            "camara": "50 MP (chính), 2 MP (depth)",
+            "camaraFront": "8 MP",
+            "cpu": "MediaTek Dimensity 6100+ 8 nhân",
+            "ram": "4 GB",
+            "rom": "64 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5000 mAh, sạc nhanh 18W"
+        },
+        "masp": "Rea11"
+    },
+    {
+        "name": "Xiaomi Redmi A4 5G",
+        "company": "Xiaomi",
+        "img": "img/products/xiaomi-redmi-a4-5g-black.jpg",
+        "price": "6.990.000",
+        "star": 4,
+        "rateCount": 60,
+        "promo": {
+            "name": "moiramat",
+            "value": ""
+        },
+        "detail": {
+            "screen": "IPS LCD, 6.7', HD+, 90Hz",
+            "os": "Android 15, HyperOS 2.0",
+            "camara": "50 MP (chính), 2 MP (depth)",
+            "camaraFront": "5 MP",
+            "cpu": "MediaTek Dimensity 6300 8 nhân",
+            "ram": "4 GB",
+            "rom": "128 GB",
+            "microUSB": "Không, USB-C",
+            "battery": "5000 mAh, sạc nhanh 18W"
+        },
+        "masp": "Xia16"
     }
     
 ];
