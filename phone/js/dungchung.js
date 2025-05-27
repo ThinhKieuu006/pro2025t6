@@ -606,15 +606,9 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-    <p>
-        <a href="index.html" style="text-decoration: none; color: inherit;">
-            Đồ án cơ sở 1 - Nguyễn Kiều Thịnh, Nguyễn Văn Hoàng Thắng
-        </a>
-        <span style="color: #eee; font-weight: bold; display: block; margin-top: 4px;">
-            Giảng viên hướng dẫn: Nguyễn Đức Phước
-        </span>
-    </p>
-</div>
+        <p><a href="index.html">Đồ án cơ sở 1 - Websites bán điện thoại di động , người thực hiện: Nguyễn Kiều Thịnh, Nguyễn Văn Hoàng Thắng 
+            <span style="color: #eee; font-weight: bold">Giảng viên hướng dẫn: ThS Nguyễn Đức Phước</span></p>
+    </div>`); 
 }
 
 // Thêm contain Taikhoan
